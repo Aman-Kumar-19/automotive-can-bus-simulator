@@ -1,0 +1,19 @@
+--- CAN BUS TRAFFIC ---
+ID: 0x100 | RPM: 800
+ID: 0x101 | Voltage: 12.60 V
+ID: 0x102 | Speed: 0 km/h
+ID: 0x103 | Temp: 70 °C
+
+--- CAN BUS TRAFFIC ---
+ID: 0x100 | RPM: 1608
+ID: 0x102 | Speed: 10 km/h
+
+--- CAN BUS TRAFFIC ---
+ID: 0x100 | RPM: 2416
+ID: 0x102 | Speed: 31 km/h
+ID: 0x101 | Voltage: 12.49 V
+
+--- CAN BUS TRAFFIC ---
+ID: 0x100 | RPM: 1055
+ID: 0x102 | Speed: 7 km/h
+ID: 0x103 | Temp: 84 °C
